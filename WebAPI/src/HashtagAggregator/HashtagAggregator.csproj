@@ -64,7 +64,7 @@
 
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="1.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="1.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="1.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="6.4.0" />
     <PackageReference Include="HashtagAggregator.Core.Contracts" Version="1.0.4" />
     <PackageReference Include="HashtagAggregator.Data.DataAccess" Version="1.0.7" />
     <PackageReference Include="System.Diagnostics.TraceSource" Version="4.3.0" />
